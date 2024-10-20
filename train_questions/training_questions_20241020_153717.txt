@@ -1,0 +1,332 @@
+Scatter Plot of Screen On Time vs. Battery Drain
+Bar Chart of Average Battery Drain by Device Model
+Box Plot of App Usage Time by User Behavior Class
+Pie Chart of Operating System Distribution
+Scatter Plot of Age vs. Number of Apps Installed
+Bar Chart of Data Usage by Gender
+Heatmap of Correlation between Screen On Time and Battery Drain
+Bar Chart of Average Screen On Time by Operating System
+Box Plot of Battery Drain by User Behavior Class
+Scatter Plot of Data Usage vs. Age
+Bar Chart of Number of Apps Installed by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Operating System
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by Age
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Number of Apps Installed by Operating System
+Box Plot of Battery Drain by Device Model
+Scatter Plot of Data Usage vs. Number of Apps Installed
+Bar Chart of Average App Usage Time by Gender
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Number of Apps Installed by Operating System
+Box Plot of Battery Drain by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model
+Pie Chart of Operating System Distribution
+Bar Chart of Average Battery Drain by Gender
+Heatmap of Correlation between App Usage Time and Battery Drain
+Bar Chart of Average App Usage Time by Operating System
+Box Plot of Battery Drain by Operating System
+Bar Chart of Number of Apps Installed by Age
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by User Behavior Class
+Box Plot of Screen On Time by Operating System
+Pie Chart of Device Model Distribution
+Bar Chart of Average Battery Drain by Operating System
+Heatmap of Correlation between App Usage Time and Data Usage
+Bar Chart of Average App Usage Time by Gender
+Box Plot of Battery Drain by Device Model
+Bar Chart of Number of Apps Installed by User Behavior Class
+Heatmap of Correlation between Screen On Time and Number of Apps Installed
+Bar Chart of Average Data Usage by Operating System
+Box Plot of Screen On Time by User Behavior Class
+Pie Chart of User Behavior Class Distribution
+Bar Chart of Average Battery Drain by User Behavior Class
+Heatmap of Correlation between Screen On Time and Data Usage
+Bar Chart of Average Data Usage by Device Model
+Box Plot of Screen On Time by Device Model

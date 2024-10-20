@@ -1,0 +1,11 @@
+Bar Chart of Top 5 Device Models by Number of Users
+Scatter Plot of App Usage Time vs. Screen On Time by Operating System
+Box Plot of Battery Drain Distribution Across Different Age Groups
+Pie Chart of Proportion of Users by User Behavior Class
+Bar Chart of Average Data Usage by Gender
+Scatter Plot of Number of Apps Installed vs. App Usage Time
+Box Plot of Screen On Time Distribution Across Different Device Models
+Bar Chart of Top 5 Operating Systems by Average Battery Drain
+Pie Chart of Proportion of Users by Age Group
+Scatter Plot of Data Usage vs. Number of Apps Installed by User Behavior Class
+Box Plot of App Usage Time Distribution Across Different Genders

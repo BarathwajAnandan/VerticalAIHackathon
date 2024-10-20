@@ -1,0 +1,316 @@
+Scatter Plot of Screen On Time vs. Battery Drain
+Bar Chart of Average App Usage Time by User Behavior Class
+Box Plot of Battery Drain by Operating System
+Pie Chart of User Behavior Class Distribution
+Scatter Plot of Age vs. Number of Apps Installed
+Bar Chart of Data Usage by Device Model
+Heatmap of Correlation Between Screen On Time and Battery Drain
+Bar Chart of Average Screen On Time by Gender
+Box Plot of Battery Drain by User Behavior Class
+Scatter Plot of Data Usage vs. Age
+Bar Chart of Number of Apps Installed by Operating System
+Heatmap of Correlation Between App Usage Time and Battery Drain
+Bar Chart of Average Screen On Time by Device Model
+Box Plot of Battery Drain by User Behavior Class
+Bar Chart of User Behavior Class Distribution by Age
+Bar Chart of Average Data Usage by Gender
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
+Bar Chart of Average Operating System by User Behavior Class
+Bar Chart of Average Age by User Behavior Class
+Bar Chart of Average Gender by User Behavior Class
+Bar Chart of Average App Usage Time by User Behavior Class
+Bar Chart of Average Data Usage by User Behavior Class
+Bar Chart of Average Battery Drain by User Behavior Class
+Bar Chart of Average Number of Apps Installed by User Behavior Class
+Bar Chart of Average Screen On Time by User Behavior Class
